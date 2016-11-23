@@ -1,3 +1,12 @@
-# hello-world
-Initialize this repository with a README
-あああああ
+# マークダウンの実験
+## 見出しを作る
+### 小見出しを作る
+## 次の見出しを作る
+
+*aaa*
+**aiueo**
+
+1.テスト
+1.テスト
+1.テスト
+1.テスト
